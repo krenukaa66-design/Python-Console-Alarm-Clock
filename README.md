@@ -1,1 +1,1 @@
-# Python-Console-Alarm-Clock
+A simple console-based alarm clock built with Python. The program allows users to set an alarm in HH:MM:SS format, continuously checks the system time, and plays a sound or beeps when the alarm time is reached.
